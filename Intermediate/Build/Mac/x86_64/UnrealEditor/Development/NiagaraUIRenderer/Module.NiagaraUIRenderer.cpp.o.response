@@ -1,7 +1,7 @@
 -c
 -pipe
 -I"."
--I"/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private"
+-I"/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private"
 -I"../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/CoreUObject/UHT"
 -I"Runtime"
 -I"Runtime/CoreUObject/Public"
@@ -281,14 +281,14 @@
 -I"../Plugins/FX/Niagara/Source/NiagaraShader/Public"
 -I"../Plugins/FX/Niagara/Source/NiagaraVertexFactories/Public"
 -I"Developer/DesktopPlatform/Public"
--I"/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT"
--I"/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source"
--I"/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public"
+-I"/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT"
+-I"/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source"
+-I"/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public"
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
--include-pch "/Users/wiklow/Downloads/NiagaraUIRenderer-main/Intermediate/Build/Mac/x86_64/NiagaraUIEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.gch"
--include "/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Definitions.NiagaraUIRenderer.h"
+-include-pch "/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Intermediate/Build/Mac/x86_64/MGD_InfiniteAmbientEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.gch"
+-include "/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Definitions.NiagaraUIRenderer.h"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -339,6 +339,6 @@
 -std=c++17
 -fpch-validate-input-files-content
 -stdlib=libc++
-"/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp"
--MD -MF"/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp.d"
--o "/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp.o"
+"/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp"
+-MD -MF"/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp.d"
+-o "/Users/wiklow/Documents/Unreal Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp.o"

@@ -1,4 +1,4 @@
-/Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp.o: \
+/Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp.o: \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/SoundWave.generated.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/AudioExtensions/UHT/IWaveformTransformation.generated.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/AudioExtensions/Public/IWaveformTransformation.h \
@@ -1628,7 +1628,7 @@
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/Core/Public/HAL/Platform.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/Core/Public/Containers/ContainersFwd.h \
   /Users/Shared/Epic\ Games/UE_5.1/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Intermediate/Build/Mac/x86_64/NiagaraUIEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Intermediate/Build/Mac/x86_64/MGD_InfiniteAmbientEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__config_site \
@@ -3307,13 +3307,13 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_nl_item.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__bsd_locale_defaults.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/cmath \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Definitions.NiagaraUIRenderer.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraSystemWidget.gen.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Module.NiagaraUIRenderer.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Development/NiagaraUIRenderer/Definitions.NiagaraUIRenderer.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraSystemWidget.gen.cpp \
   Runtime/CoreUObject/Public/UObject/GeneratedCppIncludes.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraSystemWidget.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraSystemWidget.h \
   Runtime/Core/Public/CoreMinimal.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraWidgetProperties.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraWidgetProperties.h \
   Runtime/UMG/Public/Components/Widget.h \
   Runtime/CoreUObject/Public/UObject/ObjectMacros.h \
   Runtime/UMG/Public/FieldNotification/FieldNotificationDeclaration.h \
@@ -3358,12 +3358,12 @@
   Runtime/SlateCore/Public/Types/ISlateMetaData.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/UMG/UHT/WidgetNavigation.generated.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/UMG/UHT/Widget.generated.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraSystemWidget.generated.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIActor.gen.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraUIActor.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIActor.generated.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIComponent.gen.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraUIComponent.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraSystemWidget.generated.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIActor.gen.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraUIActor.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIActor.generated.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIComponent.gen.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraUIComponent.h \
   ../Plugins/FX/Niagara/Source/Niagara/Public/NiagaraComponent.h \
   ../Plugins/FX/Niagara/Source/Niagara/Public/NiagaraCommon.h \
   Runtime/Engine/Classes/Engine/EngineBaseTypes.h \
@@ -3626,10 +3626,10 @@
   Runtime/Engine/Classes/Particles/WorldPSCPool.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/ParticleSystemComponent.generated.h \
   ../Plugins/FX/Niagara/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Niagara/UHT/NiagaraComponent.generated.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIComponent.generated.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIRenderer.init.gen.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraSystemWidget.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/SNiagaraUISystemWidget.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIComponent.generated.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/NiagaraUIRenderer/UHT/NiagaraUIRenderer.init.gen.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraSystemWidget.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/SNiagaraUISystemWidget.h \
   Runtime/Slate/Public/SlateMaterialBrush.h \
   Runtime/SlateCore/Public/Layout/Margin.h \
   Runtime/Slate/Public/Framework/Application/SlateApplication.h \
@@ -3638,8 +3638,8 @@
   Runtime/SlateCore/Public/Rendering/RenderingCommon.h \
   Runtime/SlateCore/Public/Widgets/DeclarativeSyntaxSupport.h \
   Runtime/SlateCore/Public/Widgets/SLeafWidget.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraUIActor.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraUIComponent.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraUIActor.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraUIComponent.cpp \
   ../Plugins/FX/Niagara/Source/Niagara/Public/NiagaraRibbonRendererProperties.h \
   ../Plugins/FX/Niagara/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Niagara/UHT/NiagaraRibbonRendererProperties.generated.h \
   ../Plugins/FX/Niagara/Source/Niagara/Public/NiagaraSpriteRendererProperties.h \
@@ -3657,9 +3657,9 @@
   Runtime/Core/Public/Templates/Decay.h \
   ../Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Engine/UHT/SubUVAnimation.generated.h \
   ../Plugins/FX/Niagara/Intermediate/Build/Mac/x86_64/UnrealEditor/Inc/Niagara/UHT/NiagaraSpriteRendererProperties.generated.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraUIRenderer.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraUIRenderer.h \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraUIRenderer.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Public/NiagaraUIRenderer.h \
   Runtime/Core/Public/Modules/ModuleManager.h \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraWidgetProperties.cpp \
-  /Users/wiklow/Downloads/NiagaraUIRenderer-main/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/SNiagaraUISystemWidget.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/NiagaraWidgetProperties.cpp \
+  /Users/wiklow/Documents/Unreal\ Projects/MGD_InfiniteAmbient/Plugins/NiagaraUIRenderer/Source/NiagaraUIRenderer/Private/SNiagaraUISystemWidget.cpp \
   Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h

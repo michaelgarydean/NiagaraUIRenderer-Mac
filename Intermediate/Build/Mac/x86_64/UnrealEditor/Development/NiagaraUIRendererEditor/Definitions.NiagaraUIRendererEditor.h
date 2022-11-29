@@ -65,8 +65,8 @@
 #define UE_IS_ENGINE_MODULE 0
 #define UE_DISABLE_INLINE_GEN_CPP 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 1
-#define UE_PROJECT_NAME NiagaraUI
-#define UE_TARGET_NAME NiagaraUIEditor
+#define UE_PROJECT_NAME MGD_InfiniteAmbient
+#define UE_TARGET_NAME MGD_InfiniteAmbientEditor
 #define UE_MODULE_NAME "NiagaraUIRendererEditor"
 #define UE_PLUGIN_NAME "NiagaraUIRenderer"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
